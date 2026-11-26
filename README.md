@@ -1,2 +1,2 @@
 # company-documentation-rag
-'An AI-powered company documentation search platform built with Java Spring Boot, Python FastAPI, RAG, and PostgreSQL
+'This repository contains a Java Spring Boot backend and a Python FastAPI service for a RAG-based documentation search'
